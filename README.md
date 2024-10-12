@@ -69,11 +69,11 @@ The data is preprocessed by cleaning the text, tokenizing, and applying TF-IDF. 
 3. Submit the form to receive a prediction for the category of the complaint.
 
 ## Results
-- **Accuracy**: Logistic Regression achieved an accuracy of approximately XX% on the test data.
-- **F1 Score**: The model's F1 score is approximately XX.
+- **Accuracy**: Logistic Regression achieved an accuracy of approximately 0.8697938756467893 on the test data.
+- **F1 Score**: The model's F1 score is approximately 0.8680762167097706
 
 ## Future Work
-- Incorporate other models such as **Random Forest** or **BERT** to improve accuracy.
+- Incorporate other models such as  **BERT** to improve accuracy.
 - Enhance the frontend with additional features and better styling.
 - Extend the model to classify additional financial products.
 
