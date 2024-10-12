@@ -2,7 +2,7 @@
 
 This project implements a web-based application for classifying customer complaints into financial product categories using Natural Language Processing (NLP) and Logistic Regression. The app is built with Flask and uses TF-IDF for text vectorization.
 
-## Project Overview
+You can access the live web app here: [Bank Customer Complaint Classifier](https://nisargwath-dsai.onrender.com/)
 
 This project classifies customer complaints into the following categories:
 - Credit Cards
@@ -79,5 +79,3 @@ The data is preprocessed by cleaning the text, tokenizing, and applying TF-IDF. 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
